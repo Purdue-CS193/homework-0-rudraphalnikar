@@ -1,6 +1,10 @@
 # Rudra's First CS193 Homework
 
+My favorite things about CS193:
 - Helps us understand Computer Science
+- Teaches the basics of using Terminal
+- 1 class per week
+- Run by Purdue students
 
 ## Welcome to GitHub Pages
 
