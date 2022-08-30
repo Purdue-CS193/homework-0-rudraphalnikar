@@ -1,9 +1,7 @@
 # Rudra's First CS193 Homework
 
 - Helps us understand Computer Science
-remote_theme: pages-themes/modernist@v0.2.0
-plugins:
-- jekyll-remote-theme
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
